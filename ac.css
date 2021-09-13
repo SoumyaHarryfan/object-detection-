@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+    text-align: center;
+}
+button{
+    bottom:0px;
+}
+canvas {
+    background-color: cornflowerblue;
+    border: 10px solid gold;
+    box-shadow: 5px 10px 10px ghostwhite;
+}
